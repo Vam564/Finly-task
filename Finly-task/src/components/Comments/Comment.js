@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
 import DisplayComment from './DisplayComment';
-import { Context } from '../../context/Context'
 
 import axios from 'axios'
 const Comment = () => {
